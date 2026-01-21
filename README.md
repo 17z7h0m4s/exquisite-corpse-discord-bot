@@ -8,7 +8,7 @@ A Discord bot for the Surrealist poetry game.
 
 The game traces its roots to 1920s Paris, where the Surrealists invented a technique for bypassing conscious thought and tapping into collective imagination. The name comes from the first poem created this way: *"Le cadavre exquis boira le vin nouveau"* — "The exquisite corpse will drink the young wine."
 
-This bot adapts the paper-folding mechanic for Discord. Two players alternate writing six words at a time, but each sees only the final word of their partner's contribution. The collision produces lines neither could have written alone.
+This bot adapts the paper-folding mechanic for Discord. Two players alternate writing six words at a time, but each sees only the final word of their partner's contribution. The collision produces lines neither could have written alone. The whole becomes greater than the sum of its parts.
 
 ## Commands
 
